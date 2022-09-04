@@ -1,0 +1,8 @@
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\bin\Debug\RateSpielLA2.exe.config
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\bin\Debug\RateSpielLA2.exe
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\bin\Debug\RateSpielLA2.pdb
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\obj\Debug\RateSpielLA2.csproj.AssemblyReference.cache
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\obj\Debug\RateSpielLA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\obj\Debug\RateSpielLA2.csproj.CoreCompileInputs.cache
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\obj\Debug\RateSpielLA2.exe
+C:\Users\tanas\source\repos\RateSpielLA2\RateSpielLA2\obj\Debug\RateSpielLA2.pdb
